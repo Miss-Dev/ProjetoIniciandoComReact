@@ -1,0 +1,21 @@
+:root{
+  --vermelho:#E50914;
+  --preta:#141414;
+}
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--preta) !important;
+  font-family: 'Arial', Times, serif;
+  color:white;  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
